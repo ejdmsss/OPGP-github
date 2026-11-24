@@ -6,3 +6,7 @@ print(f"Obvod obdĺžnika o veľkosti 10 x 15 je {obdlznik.obvod(10, 15)}")
 
 import tvary.kruh
 print(f"Obvod kruhu o veľkosti 10 je {tvary.kruh.obvod(10)}")
+
+//tu nieco menim
+
+
